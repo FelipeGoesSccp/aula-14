@@ -1,0 +1,8 @@
+{
+  "appId": "com.aluno.geoapp",
+  "appName": "GPS Localizador",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
